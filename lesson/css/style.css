@@ -1,0 +1,10 @@
+.--shadowed {
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.navbar-brand {
+    width: 60px;
+    height: 70px;
+}
+.navbar {
+    padding: 4px;
+}
